@@ -1,5 +1,7 @@
 # Todolist API
 
+<img src="images/1.jpg" alt="To do List." width="200" height="140"/>
+
 Uma API simples para gerenciamento de tarefas desenvolvida com **Spring Boot**, com foco no aprendizado e prática de operações CRUD, organização por camadas, utilização de **DTOs** para segurança e boas práticas, e documentação automática com **Swagger**.
 
 ## Funcionalidades
